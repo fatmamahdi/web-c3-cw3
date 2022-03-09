@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Sansita+Swashed:wght@300&display=swap');
+
+h1{
+
+    font-family: 'Pacifico', cursive;
+font-family: 'Sansita Swashed', cursive;
+
+}
+
+
+.text-color{
+
+color: aquamarine;
+background-color: bisque;
+}
+
+#color{
+
+color: aquamarine;
+
+}
+
